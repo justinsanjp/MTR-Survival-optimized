@@ -1,3 +1,17 @@
+##
+
+This fork is currently being revised so that it is optimized for survival mode.
+
+Currently, the MTR mod is hardly optimized for survival mode at all. Crafting recipes are far too cheap. Trains are free, etc.
+
+When I am finished with my optimization, it will be posted above this message. Everything about the MTR mod is listed below.
+Please only download the MTR mod from the official source.
+https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway
+
+https://minecrafttransitrailway.com/
+
+Translated with DeepL.com (free version)
+
 ## Minecraft Transit Railway 4.0.0
 
 _Minecraft Transit Railway_ is a [Minecraft mod](https://minecraft.wiki/w/Mods) that allows you to build your own transport network with automated trains, boats, cable cars, and planes!
