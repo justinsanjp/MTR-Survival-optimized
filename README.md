@@ -1,4 +1,4 @@
-##
+
 
 This fork is currently being revised so that it is optimized for survival mode.
 
@@ -10,7 +10,7 @@ https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway
 
 https://minecrafttransitrailway.com/
 
-Translated with DeepL.com (free version)
+##
 
 ## Minecraft Transit Railway 4.0.0
 
